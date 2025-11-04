@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1762250629 source:/home/dchm/Code/Cpp/janken/main.cpp
+	<iostream>
+	"include/Game.h"
+
+1762250716 source:/home/dchm/Code/Cpp/janken/src/Player.cpp
+	"../include/Player.h"
+	<iostream>
+
+1762248472 /home/dchm/Code/Cpp/janken/include/Player.h
+	<string>
+
+1762250166 source:/home/dchm/Code/Cpp/janken/src/Game.cpp
+	"../include/Game.h"
+	<iostream>
+
+1762249506 /home/dchm/Code/Cpp/janken/include/Game.h
+	"Player.h"
+
